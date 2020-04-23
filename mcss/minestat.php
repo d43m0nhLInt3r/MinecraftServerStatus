@@ -123,4 +123,3 @@ class MineStat
     return $this->latency;
   }
 }
-?>
