@@ -77,4 +77,8 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 </body>
 
+<?php
+header('Refresh: 600; url=index.php');
+?>
+    
 </html>
