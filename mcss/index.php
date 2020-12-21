@@ -65,6 +65,16 @@
                     </div>
                 </div>
             </div>
+             <div class="col-12 vw-50">
+                <div class="card mb-4 shadow-sm" style="height: 500px;">
+                    <div class="card-header">
+                        <h4 class="my-0 fw-normal">Logs</h4>
+                    </div>
+                    <div class="card-body">
+                        <iframe frameborder="0" width="100%" height="100%" src="MinecraftLogs.php"></iframe>
+                    </div>
+                </div>
+            </div>
         </div>
     </main>
     <footer class="fixed-bottom">
